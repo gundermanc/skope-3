@@ -1,1 +1,1 @@
-java -jar Skope3.jar
+java -jar Skope-3.jar
